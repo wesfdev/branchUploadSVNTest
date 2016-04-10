@@ -1,1 +1,2 @@
-texto de prueba de svn
+texto de prueba de svn,
+esta es la segunda linea que se modifico.
