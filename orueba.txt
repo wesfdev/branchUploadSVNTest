@@ -1,2 +1,4 @@
 texto de prueba de svn,
 esta es la segunda linea que se modifico.
+
+yo soy la rama master
